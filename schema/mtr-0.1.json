@@ -64,5 +64,10 @@
 "description": "Execution environment"
 }
 },
+"extensions": {
+"type": "object",
+"description": "Optional implementation-specific fields. Not required for core compliance.",
+"additionalProperties": true
+}
 "additionalProperties": false
 }
