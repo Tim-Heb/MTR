@@ -1,0 +1,12 @@
+{
+"DecisionID": "01JH2Z6GQ3KQ6R7R3W4KQ9M3YV",
+"DecisionType": "recommendation",
+"ModelID": "example-llm-1.0.0",
+"PromptHash": "sha256:6b1a2d3c4e5f67890123456789abcdef0123456789abcdef0123456789abcd",
+"ToolCalls": ["crm.lookup", "policy.search"],
+"UncertaintySignal": "medium",
+"HumanOverride": "none",
+"Outcome": null,
+"Timestamp": "2026-01-11T21:00:00-08:00",
+"Environment": "production"
+}
